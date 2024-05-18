@@ -9,3 +9,5 @@ console.log(multiplynumber(2,2));
 
 const divite = (a,b) => a/b;
 console.log(divite(10,2));git
+
+console.log(add(5,5));
