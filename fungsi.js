@@ -8,6 +8,7 @@ const multiplynumber = (a,b) => a * b;
 console.log(multiplynumber(2,2));
 
 const divite = (a,b) => a/b;
-console.log(divite(10,2));git
+console.log(divite(10,2));
 
-console.log(add(5,5));
+const mathsin = (number) => Math.sin(number);
+console.log(mathsin(10));
